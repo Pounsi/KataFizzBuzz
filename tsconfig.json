@@ -1,0 +1,11 @@
+{
+    "compilerOptions": {
+      "outDir": "target"
+    },
+    "include": [
+      "src/main/*"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
